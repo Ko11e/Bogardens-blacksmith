@@ -6,14 +6,26 @@
     box-sizing: border-box;
 }
 
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+/* Header styles */
 header {
     background-color: seagreen;
 }
 
+/* Main styles */
 main {
     background-color: plum;
+    flex: 1 0 auto;
 }
 
+/* Footer styles */
 footer {
     background-color: azure;
 }
