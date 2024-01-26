@@ -1,0 +1,19 @@
+
+/* Asterisk wildcard sector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: seagreen;
+}
+
+main {
+    background-color: plum;
+}
+
+footer {
+    background-color: azure;
+}
