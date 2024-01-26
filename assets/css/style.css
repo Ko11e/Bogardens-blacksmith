@@ -11,12 +11,45 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: black;
+    color: white;
+    background-color: #3D261F;
 }
 
 /* Header styles */
 header {
-    background-color: seagreen;
+    margin: 2%;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    text-decoration: none;
+    color: inherit;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+nav {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+#logo {
+    width: 80px;
+}
+
+#menu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#menu > li {
+    list-style-type: none;
+    position: relative;
+    bottom: 0;
+    padding: 0 5px;
 }
 
 /* Main styles */
