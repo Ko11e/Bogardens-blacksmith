@@ -20,7 +20,6 @@ header {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
-    text-decoration: none;
     color: inherit;
 }
 
@@ -79,7 +78,21 @@ section h2 {
 
 /* Footer styles */
 footer {
-    background-color: azure;
+    background: linear-gradient(0deg, rgba(28, 17, 15, 1) 50%, rgba(46, 28, 23, 1) 100%);
+}
+
+footer i {
+    color: #FFF6F2;
+    font-size: 160%;
+    padding: 5%;
+}
+
+#socialmedia {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
 
 /* Media query: larger or landscape phones (576px and up) */
