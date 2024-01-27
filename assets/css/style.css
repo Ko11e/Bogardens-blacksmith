@@ -58,8 +58,11 @@ main {
 
 #hero {
     height: 250px;
-    background: linear-gradient(0deg, rgba(46, 28, 23, 1) 0%, rgba(255, 255, 255, 0) 50%, rgba(46, 28, 23, .4) 100%), 
-    url('../images/Hero-pic.png') no-repeat center center/cover;
+    /* This a filter-gradient over the photo so the white text isn't hard to read when it over the fire 
+    and the hammer effect is more visible */
+    background: linear-gradient(0deg, rgba(46, 28, 23, 1) 0%, rgba(28, 17, 15, .3) 20%, 
+    rgba(28, 17, 15, 0.7) 65%, rgba(28, 17, 15, 0.7) 100%),
+        url('../images/Hero-pic.png') no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -78,4 +81,11 @@ section h2 {
 /* Footer styles */
 footer {
     background-color: azure;
+}
+
+/* Media query: larger or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #menu li {
+        font-size: 150%;
+    }
 }
