@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta tags for seach engines -->
+    <meta name="description"
+        content="Bogardens Blacksmith is a small blacksmith in Hälsingland, Sweden, that offers beginner courses and makes candlesticks, chandeliers, wind vanes, grave crosses, etc">
+    <meta name="keywords"
+        content="Bogardens Blacksmith, Blacksmith, Metal, Blacksmithing farm, Courses, beginner courses, Hälsingland">
+    <!-- Title -->
+    <title>Bogardens Blacksmith</title>
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon//favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon//favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <a href="index.html">
+            <img id="logo" src="assets/images/Bogardens-logo-wb.png" alt="Company logo">
+        </a>
+        <nav>
+            <ul id="menu">
+                <li><a href="products.html">Products</a></li>
+                <li><a href="">Courses</a></li>
+                <li><a href="contacts.html">Contacts</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main -->
+    <main> Main content </main>
+
+    <!-- Footer -->
+    <footer>
+        <ul id="socialmedia">
+            <li><a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Facebook page (opens in a new tab)">
+                <i class="fa-brands fa-square-facebook"></i></a></li>
+            <li><a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Instagram page (opens in a new tab)">
+                <i class="fa-brands fa-instagram"></i></a></li>
+            <li><a href="https://www.google.com/maps/place/Bog%C3%A5rden+3419,+820+11+Vallsta/@61.5705704,16.4568262,17.02z/data=!4m6!3m5!1s0x4666916c1b81f343:0xd0161ee461604375!8m2!3d61.5704255!4d16.4578636!16s%2Fg%2F11c4jbqrp2?authuser=0&entry=ttu"
+                target="_blank" rel="noopener"
+                aria-label="See our location on Googlemaps (opens in a new tab)">
+                <i class="fa-solid fa-map-location-dot"></i></a></li>
+        </ul>
+    </footer>
+
+    <!-- Font Awesome kit -->
+    <script src="https://kit.fontawesome.com/61067b666c.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
