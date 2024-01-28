@@ -61,7 +61,7 @@ main {
     and the hammer effect is more visible */
     background: linear-gradient(0deg, rgba(46, 28, 23, 1) 0%, rgba(28, 17, 15, .3) 20%, 
     rgba(28, 17, 15, 0.7) 65%, rgba(28, 17, 15, 0.7) 100%),
-        url('../images/Hero-pic.png') no-repeat center center/cover;
+        url('../images/Hero-pic.png') no-repeat center bottom/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
