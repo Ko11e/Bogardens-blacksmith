@@ -4,33 +4,50 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 ## Features 
 
 ### Site wide
--__Navigation Bar__
+#### Navigation Bar
   -Features liks to the page Home , Products, Contacts and the section Courses that are on the Homepage. The Navigation bar is responsive to all screens
-  - Since the navigation section appears on all pages, users can easily navigate through the site on any device.
+  -Since the navigation section appears on all pages, users can easily navigate through the site on any device.
 
-  (picture of the nav-bar)
+  (image of the nav-bar)
+
+#### The Footer section
+  -This section will show the user links to Bogårdens Blacksmith's active social media pages and their location. The links will open in a new tab, making it easy for the user keep exploring their content on the site and socila media.
+  -This will allow users to follow Bogårdens Blacksmith on social media, where they can see custom orders and get more up-to-date information than on the website.
+
+  (image of the footer)
+
+#### Favicon
+  -The website's favicon features the company's logo, which is also displayed in the navigation bar.
+  -By adding a favicon with the company's logo, users can easily identify the tab among multiple tabs open.
 
 
+#### 404 page
+  -
+
+#### The Hero section
+  However, this is not featured on the contacts page, to create a minimalist look and make the focus on the contact form.
+  -The section features an attention-grabbing animation to highlight the site's main content.
+  -The photo in the section has a text overlay informing the user of the name of the company and its region of location.
+
+  (Image of the hero)
+
+### Main page
+#### About us section
+  -In this section the user gets more information about the company and its history.
+  -Its introduces the user to what the company has to offer, as in courses and products.
+  -The images in this section showcase the forge and its owner, providing a friendly atmosphere for the user.
+
+### Courses section
+  -
 
 ### Existing Features
 
-
-
-- __The Hero section__
-
-
-
-
-- __About us Section__
 
 
 
 - __Courses section__
 
 
-
-
-- __The Footer__ 
 
 
 - __Products page__
