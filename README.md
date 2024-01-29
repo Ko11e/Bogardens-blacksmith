@@ -1,7 +1,4 @@
-# Bogården Blacksmith
-Portfolio Project One
-# Tacos Travels
-
+# Bogårdens Blacksmith
 
 
 ## Features 
@@ -9,24 +6,51 @@ Portfolio Project One
 
 ### Existing Features
 
+- __Navigation Bar__ 
+
+
+- __The Hero section__
+
+
+
+
+- __About us Section__
+
+
+
+- __Courses section__
+
+
+
+
+- __The Footer__ 
+
+
+- __Products page__
+
+
+
+- __Contacts page__
+
 
 
 ### Features Left to Implement
 
-
+- Another feature idea
 
 ## Testing 
+
+
 
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
+  - No errors were returned when passing through the official [W3C validator]
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
+  - No errors were found when passing through the official [(Jigsaw) validator]
 
 ### Unfixed Bugs
-
 
 
 ## Deployment
@@ -38,7 +62,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here  
 
 
 ## Credits 
@@ -47,27 +71,12 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ### Content 
 
+- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
+- The photos used on the home and sign up page are from This Open Source site
+- The images used for the gallery page were taken from this other open source site
 
-
-0 comments on commit e0abace
-@Ko11e
-Comment
  
-Leave a comment
- 
- You’re not receiving notifications from this thread.
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-Doc: Add base skeleton to readme · Gareth-McGirr/tacos-travels@e0abace
