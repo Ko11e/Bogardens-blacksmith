@@ -1,13 +1,19 @@
 # Bogårdens Blacksmith
 Bogårdens Blacksmith is a website created to promote the company Bogårdens Blacksmith and their services and products. Bogårdens Blacksmith is a company that sells smithing items and has courses where people can try backsmithing. The website provides information on where to buy the company’s items and also has a contact form that users can fill out to send their questions, booking requests, and special order requests. View the live site here. View the live site (here).link
 
-
 ## Features 
+
+### Site wide
+-__Navigation Bar__
+  -Features liks to the page Home , Products, Contacts and the section Courses that are on the Homepage. The Navigation bar is responsive to all screens
+  - Since the navigation section appears on all pages, users can easily navigate through the site on any device.
+
+  (picture of the nav-bar)
+
 
 
 ### Existing Features
 
-- __Navigation Bar__ 
 
 
 - __The Hero section__
