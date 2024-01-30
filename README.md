@@ -45,11 +45,16 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
   (Picture of the courses section)
 
+## Products page
+  - The product page will provide the user with some of the products the company has made and can buy. The page is fully responsive make it easy for the user to see the products.
+  - This will showcase the company's retail dealer to easily find where they buy the products since this is a static site.
+  - A special order example picture is provided along for the user with a link to the contacts form to be able to send a special order request.
+
+  
+
 ### Existing Features
 
 
-
-- __Products page__
 
 
 
