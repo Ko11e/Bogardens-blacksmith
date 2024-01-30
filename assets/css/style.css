@@ -14,10 +14,16 @@ body {
     background-color: #2e1c17;
 }
 
+h2 {
+    text-align: center;
+    font-size: 175%;
+}
+
 p {
     text-align: justify;
     padding: 5px;
 }
+
 
 /* Header styles */
 header {
@@ -108,6 +114,7 @@ main {
 
 #hero h2 {
     font-size: smaller;
+    text-align: left;
 }
 /* Why us section */
 
@@ -158,7 +165,55 @@ div > a {
 
 
 /* Product page */
+.selling-prod {
+    width: 90%;
+    margin: 20px auto;
+}
 
+.selling-prod h2 {
+    margin-bottom: 20px;
+}
+
+.under-box > div {
+    width: 50%;
+    line-height: 20px;
+    padding: 15px;
+    box-sizing: content-box;
+}
+
+.under-box {
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+}
+
+.text-left p,
+.text-left h3 {
+    text-align: right;
+}
+
+.under-box img {
+    width: 40vw;
+    height: 40vw;
+    object-fit: cover;
+}
+
+table {
+    padding: 10px 10vw;
+    width: 100%;
+}
+
+
+th {
+    border-bottom: 1px solid #FFF6F2;
+    font-size: 120%;
+    font-style: oblique;
+    padding: 10px 0;
+  }
+
+td {
+    padding: 5px 0;
+}
 
 /* Footer styles */
 footer {
@@ -179,7 +234,7 @@ footer i {
     list-style-type: none;
 }
 
-/* Media query: larger or landscape phones (576px and up) */
+/* Media query: tablor landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     nav {
         display: block;
@@ -206,16 +261,36 @@ footer i {
         display: flex;
         align-items: center;
     }
-    
-    .revers-order {
-        flex-direction: row-reverse;
 
+    .revers-order {
+        flex-direction: row-reverse !important;
     }
 
     .about-image {
         height: 20vw;
         min-height: 40vh;   
     }
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Products section */
+    .selling-prod > div {
+        display: flex;
+    }
+    
+
+    .under-box img {
+        width: 20vw;
+        height: 20vw;
+        object-fit: cover;
+    }
+
+    .center {
+        display: flex;
+        justify-content: center;
+    }
+
 }
 
 /* Media query: larger or landscape phones (1024px and up) */
