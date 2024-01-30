@@ -131,6 +131,21 @@ main {
     border-radius: 50%;
 }
 
+/* Courses section */
+#stand-courses {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#stand-courses div {
+    background-color: rgb(230 ,108 ,77 ,.7);
+    padding: 15px;
+    flex-basis: 300px;
+    flex-grow: 1;
+    border: 2px solid #2e1c17;
+}
+
+
 /* Footer styles */
 footer {
     background: linear-gradient(0deg, rgba(28, 17, 15, 1) 50%, rgba(46, 28, 23, 1) 100%);
