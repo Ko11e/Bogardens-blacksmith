@@ -215,6 +215,16 @@ td {
     padding: 5px 0;
 }
 
+.website {
+    text-align: right;
+    color: #FFF6F2;
+}
+
+.website a {
+    color:#FFF6F2;
+}
+
+
 /* Footer styles */
 footer {
     background: linear-gradient(0deg, rgba(28, 17, 15, 1) 50%, rgba(46, 28, 23, 1) 100%);
@@ -291,6 +301,10 @@ footer i {
         justify-content: center;
     }
 
+    table {
+        padding: 10px 20vw;
+    }
+
 }
 
 /* Media query: larger or landscape phones (1024px and up) */
@@ -298,4 +312,6 @@ footer i {
     #why-us {
         padding: 0 15%;
     }
+
+
 }
