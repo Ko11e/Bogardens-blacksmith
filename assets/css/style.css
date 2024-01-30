@@ -16,7 +16,7 @@ body {
 
 p {
     text-align: justify;
-    padding: 5px 0;
+    padding: 5px;
 }
 
 /* Header styles */
@@ -117,9 +117,18 @@ main {
     padding: 10px
 }
 
+#why-us h1{
+    text-align: center;
+}
+
+.about-image {
+    display: flex;
+    justify-content: center;
+}
+
 .about-image img{
-    width: 75%;
-    align-items: center;
+    width: 40vh;
+    border-radius: 50%;
 }
 
 /* Footer styles */
@@ -164,16 +173,25 @@ footer i {
     }
 
     /* Why us */
-    /*#why-us > div {
+    #why-us > div {
         display: flex;
+        align-items: center;
     }
     
     .revers-order {
         flex-direction: row-reverse;
+
     }
 
     .about-image {
-        width: 45%;
-        align-items: center;
-    }*/
+        height: 20vw;
+        min-height: 40vh;   
+    }
+}
+
+/* Media query: larger or landscape phones (1024px and up) */
+@media screen and (min-width: 1024px) {
+    #why-us {
+        padding: 0 15%;
+    }
 }
