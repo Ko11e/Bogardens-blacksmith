@@ -38,7 +38,7 @@
     </header>
 
     <!-- Main -->
-    <main>
+    <main id="main-contact">
         <section id="contact">
             <form id="contact-form" method="POST" action="https://formdump.codeinstitute.net/">
                 <h2>Contats Form</h2>
@@ -54,9 +54,9 @@
                 <br>
                 <div id="radio_buttons">
                     <div>
-                        <label for="courses">Booking a Course</label>
                         <input id="courses" type="radio" name="regarding" value="Course" required>
-                        <select name="course-type" class="hidden">
+                        <label for="courses">Booking a Course</label>
+                        <select name="course-type" class="dropbox-options">
                           <option value="first-timer">Firste timer</option>
                           <option value="2-day">2-day course</option>
                           <option value="s/b party">Bachelorette / Stag party</option>
@@ -64,18 +64,16 @@
                         </select>
                     </div>
                     <div>
-                        <label for="special-order">Special order</label>
                         <input id="special-order" type="radio" name="regarding"" value="special-order" required>
+                        <label for="special-order">Special order</label>
                     </div>
                     <div>
-                        <label for="both">Other</label>
                         <input id="other" type="radio" name="regarding" value="other" required>
+                        <label for="other">Other</label>
                     </div>
                 </div>
-                <label for="message">Write your message below:</label>
                 <br>
-                <textarea id="message" name="message" rows="10" cols="50">
-                </textarea>
+                <textarea id="message" name="message" rows="10" cols="50" placeholder="Write your message here.."></textarea>
                 <br>
                 <br>
                 <button type="submit" class="send-button">Send!</button>
