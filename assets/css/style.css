@@ -14,6 +14,11 @@ body {
     background-color: #2e1c17;
 }
 
+p {
+    text-align: justify;
+    padding: 5px 0;
+}
+
 /* Header styles */
 header {
     margin: 2px;
@@ -97,12 +102,24 @@ main {
     padding: 20px;
 }
 
-section h1 {
+#hero h1 {
     font-size: 200%;
 }
 
-section h2 {
+#hero h2 {
     font-size: smaller;
+}
+/* Why us section */
+
+#why-us {
+    width: 99vw;
+    margin: 20px 0;
+    padding: 10px
+}
+
+.about-image img{
+    width: 75%;
+    align-items: center;
 }
 
 /* Footer styles */
@@ -137,10 +154,6 @@ footer i {
         display: flex;
     }
 
-    /*#menu > li {
-        padding-left: 1rem;
-    }*/
-
     .nav-toggle-label {
         display: none;
     }
@@ -149,4 +162,18 @@ footer i {
         font-size: 150%;
         padding: 0 10px;
     }
+
+    /* Why us */
+    /*#why-us > div {
+        display: flex;
+    }
+    
+    .revers-order {
+        flex-direction: row-reverse;
+    }
+
+    .about-image {
+        width: 45%;
+        align-items: center;
+    }*/
 }
