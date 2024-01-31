@@ -54,7 +54,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - 
 
 ### Existing Features
-
+  1. 
 
 ### Features Left to Implement
 
@@ -90,11 +90,11 @@ Since Balcksmith usally a mysterius feeling the darkerteam feelt lika the right 
 
 ## Technologies
 
-- HTML
-  - The structure of the Website was developed using HTML as the main language.
-- CSS
-  - The website's styling was achieved through the use  CSS, which is located in an external file.
-- Gitpod
+- HTML <br>
+ The structure of the Website was developed using HTML as the main language.
+- CSS <br>
+The website's styling was achieved through the use  CSS, which is located in an external file.
+- Gitpod 
   - The website was created by using Gitpod.
 - GitHub
   - Source code is hosted on GitHub and delpoyed using Git Pages.
@@ -106,6 +106,8 @@ Since Balcksmith usally a mysterius feeling the darkerteam feelt lika the right 
   - To convert some images from jpg or png to web format, we used [Convertio](https://convertio.co/jpg-webp/).
 - Tinyjpg
   - Used https://tinyjpg.com/ to compress the size of the images.
+- Colorspace
+  - To find a color palate for the website colorspace was used.
 - Favicon.io
   - Favicon files were made at https://favicon.io/favicon-converter/
 - balsamiq
@@ -121,6 +123,7 @@ Since Balcksmith usally a mysterius feeling the darkerteam feelt lika the right 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
 
+### Lighthouse testing
 
 
 ### Bugs
@@ -131,15 +134,15 @@ Since Balcksmith usally a mysterius feeling the darkerteam feelt lika the right 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+The project was published on GitHub Pages by following these steps.
+  1. Log in to GitHub and locate the [Repository](https://github.com/Ko11e/Bogardens-blacksmith)
+  2. Click on "Settings", locaded at the end of the menu at the top of the page.
+  3. Click on "Page", locaded in the middel of the menu on the leftsida.
+  4. Under "Branch", click the drop down called "None" and select "Main".
+  5. Clicke "Save" and refreash the page.
+  6. The link to the publish site will shown in the top of the page.
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
-
-The live link can be found here  
-
+The live link can be found [here](https://ko11e.github.io/Bogardens-blacksmith/) 
 
 ## Credits 
 
