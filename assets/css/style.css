@@ -24,6 +24,9 @@ p {
     padding: 5px;
 }
 
+a {
+    color: #FFF6F2;
+}
 
 /* Header styles */
 header {
@@ -175,7 +178,7 @@ div > a {
 }
 
 .under-box > div {
-    width: 50%;
+    width: 70%;
     line-height: 20px;
     padding: 15px;
     box-sizing: content-box;
@@ -187,8 +190,8 @@ div > a {
     padding: 5px 0;
 }
 
-.text-left p,
-.text-left h3 {
+.text-right p,
+.text-right h3 {
     text-align: right;
 }
 
@@ -196,6 +199,14 @@ div > a {
     width: 40vw;
     height: 40vw;
     object-fit: cover;
+}
+
+#center {
+    flex-direction: column-reverse;
+}
+
+#center img {
+    width: 60vw;
 }
 
 table {
@@ -218,10 +229,6 @@ td {
 .website {
     text-align: right;
     color: #FFF6F2;
-}
-
-.website a {
-    color:#FFF6F2;
 }
 
 /* Contacts form */
@@ -265,7 +272,7 @@ td {
     flex-direction: column;
 }
 
-.dropbox-options {
+#dropbox-options {
     background: transparent;
     width: 50%;
     height: 25px;
@@ -276,7 +283,7 @@ td {
     color: #FFF6F2;
 }
 
-.dropbox-options option {
+#dropbox-options option {
     background-color: rgb(46, 28, 23, .5);
 }
 
@@ -364,17 +371,30 @@ footer i {
     .selling-prod > div {
         display: flex;
     }
-    
 
+    .under-box {
+        width: 50%;
+    }
+    
     .under-box img {
         width: 20vw;
         height: 20vw;
         object-fit: cover;
     }
 
-    .center {
+    #spec-order-section{
+        width: 65%;
+    }
+
+    #center {
         display: flex;
+        flex-direction: row;
         justify-content: center;
+        width: 100%;
+    }
+
+    #center img {
+        width: 20vw;
     }
 
     table {
