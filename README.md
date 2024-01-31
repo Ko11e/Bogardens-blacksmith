@@ -52,11 +52,11 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   (Picture of the Products section)
 
 ## Contact page
-  - 
+  - This page provides a platform for users to get in touch with the company. Users can use this page to book a course, request a special order, or ask any other questions they may have. To do so, they will need to fill out a form that includes their full name, email address and the topic of their message. Additionally, there is a message box where users can write their queries in detail.
 
 ### Existing Features
- All the pages are responsive
 
+ All the pages are responsive
 
 ### Features Left to Implement
 
@@ -66,7 +66,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
 - Currently, there are only three active sites on the website. Having a dedicated site for courses would make it easier for users to understand the contents of each course.
 
-- By using javascript the contact from send a email to the owner with a infomation and the message given in the form
+- By using javascript the contact from send a email to the owner with the input given in the form.
 
 
 ## Design
@@ -117,17 +117,17 @@ Used balsamiq to create the wireframes.
 
 ## Testing 
 
-  1. Tested all the pages if they are responsive <br>
+  **1. Tested all the pages if they are responsive** <br>
 This is made by opening the project on differens devices as Iphone, Samsunge phone and tablet and laptop and desktop.
 The responsiveness is also tested by using Google chromes inspect function though out of the building of the project.
 
-  2. All the links leading to to other pages internal and external. <br>
+  **2. All the links leading to to other pages internal and external.** <br>
   The links is all tested on a desktop and mobile phone and are leading to the right site
 
-  3. Contact from, empty input<br>
+  **3. Contact from, empty input**<br>
   By leaving one of the field empty a message appears indication the box need to be filled out.
 
-  4. Contact form, validat input <br>
+  **4. Contact form, validat input** <br>
   Clickt send after completed form correctly received that the form validates input.
   
 
@@ -158,7 +158,7 @@ No errors were found when passing through the official [(Jigsaw) validator]
 
 - A error on the Products page had a error was found when running [the W3C validator]. A extra < /section > was on one of the line, that now is removed.
 
-- The user is able to send the form without sending writing a message in the textarea. This bug was fixed but the user just enters a dot in the form they are able to send it. I don't know if this is possible to fix.
+- The user is able to send the form without sending writing a message in the textarea. I don't know if this is possible to fix.
 
 #### Unfixed Buges
 
