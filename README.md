@@ -68,8 +68,25 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
 
 ## Design
+ I started with making a wirefram as can be see below. Altought the color team and the images of the website was already in the back of my mind. In the section colors and images is it more infromation on the color and image choices.
 
 ### Wireframe
+#### Home page
+
+#### Product page
+
+####  Contact page
+
+### Color
+Since Balcksmith usally a mysterius feeling the darkerteam feelt lika the right choice and looking at other blacksmith site a darkercolor is usally used. The darkbrown color (#3D261F), the background color, is sampeld for the apron in the Hero image. The white and the orange is found using a website [ColorSpace](https://mycolor.space/?hex=%233D261F&sub=1).
+
+### Images
+- The site contains a larger baner as a hero image to immediately capture the attention of the user. Over the image is a filter with a gradient from the hammer blows, and the sparks, to the top or the bottom of the image. The gradient is appyed to make the picture more eye catching and for the user the qiukly understand the content of the website.
+
+- In the section about the smithy two photos are shown to the owner and the farm. Because its a one man company showing a picture of the owner 
+
+- The images of the products is to give the user a feeling of the skille and presition in the companys work. This applys also in the image to the special order section.
+
 
 ## Technologies
 
@@ -85,6 +102,8 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - During the development of the website, Git was utilized to commit and push code.
 - Font Awesome
    - Icons from https://fontawesome.com/ used as social media and map links in footer.
+- Covertio
+  - To convert some images from jpg or png to web format, we used [Convertio](https://convertio.co/jpg-webp/).
 - Tinyjpg
   - Used https://tinyjpg.com/ to compress the size of the images.
 - Favicon.io
@@ -101,6 +120,8 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - No errors were returned when passing through the official [W3C validator]
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
+
+
 
 ### Bugs
 
