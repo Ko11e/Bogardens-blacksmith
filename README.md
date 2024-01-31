@@ -136,12 +136,14 @@ The responsiveness is also tested by using Google chromes inspect function thoug
 
 - HTML <br>
 No errors were returned when passing through the official [W3C validator]
-  - Home page [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fko11e.github.io%2FBogardens-blacksmith%2F)
-  - Product page Results
-  - Contact page Results
+  - Home page **[Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fko11e.github.io%2FBogardens-blacksmith%2F)**
+  - Product page **[Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fko11e.github.io%2FBogardens-blacksmith%2Fproducts.html)**
+  - Contact page **[Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fko11e.github.io%2FBogardens-blacksmith%2Fcontacts.html)**
 - CSS <br>
 No errors were found when passing through the official [(Jigsaw) validator]
-  - CSS style file Results 
+  - CSS style file 
+
+  [Se image]
 
 ### Lighthouse testing
   - Home page Results
