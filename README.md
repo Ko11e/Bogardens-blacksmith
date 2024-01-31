@@ -50,16 +50,10 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - This will showcase the company's retail dealer to easily find where they buy the products since this is a static site.
   - A special order example picture is provided along for the user with a link to the contacts form to be able to send a special order request.
 
-  
+## Contact page
+  - 
 
 ### Existing Features
-
-
-
-
-
-- __Contacts page__
-
 
 
 ### Features Left to Implement
@@ -70,10 +64,30 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
 ### Wireframe
 
+## Tecon
+
+
 ## Testing 
-
-
-
+- HTML
+  - The structure of the Website was developed using HTML as the main language.
+- CSS
+  - The website's styling was achieved through the use  CSS, which is located in an external file.
+- Gitpod
+  - The website was created by using Gitpod.
+- GitHub
+  - Source code is hosted on GitHub and delpoyed using Git Pages.
+- Git
+  - During the development of the website, Git was utilized to commit and push code.
+- Google Fonts
+  - Google fonts were used to import the 'Palanquin' font into the style.css file which is used on all pages.
+- Font Awesome
+   - Icons from https://fontawesome.com/ used as social media and map links in footer.
+- Tinyjpg
+  - Used https://tinyjpg.com/ to compress the size of the images.
+- Favicon.io
+  - Favicon files were made at https://favicon.io/favicon-converter/
+- balsamiq
+  - Used balsamiq to create the wireframes https://balsamiq.com/wireframes/desktop/#
 
 ### Validator Testing 
 
@@ -106,9 +120,13 @@ The live link can be found here
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
+
+
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
+- Got pictures from https://www.stockvault.net/free-photos/blacksmith/ https://www.istockphoto.com/
+- Other pictures are from the owner of the company
 
  
