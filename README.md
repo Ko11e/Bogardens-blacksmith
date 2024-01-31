@@ -3,6 +3,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
 (picture of the deskpicture)
 ## Features 
+
 ### Site wide
 #### Navigation Bar
   - Features liks to the page Home , Products, Contacts and the section Courses that are on the Homepage. The Navigation bar is responsive to all screens
@@ -121,7 +122,7 @@ Used balsamiq to create the wireframes.
 
 - HTML <br>
 No errors were returned when passing through the official [W3C validator]
-  - Home page Results
+  - Home page [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fko11e.github.io%2FBogardens-blacksmith%2F)
   - Product page Results
   - Contact page Results
 - CSS <br>
@@ -136,6 +137,10 @@ No errors were found when passing through the official [(Jigsaw) validator]
 
 ### Bugs
 #### Fixed Buges
+- 
+
+ - A error on the Products page had a error was found when running [the W3C validator]. A extra < /section > was on one of the line, that now is removed.  
+
 
 #### Unfixed Buges
 
