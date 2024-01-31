@@ -1,8 +1,8 @@
 # Bogårdens Blacksmith
 Bogårdens Blacksmith is a website created to promote the company Bogårdens Blacksmith and their services and products. Bogårdens Blacksmith is a company that sells smithing items and has courses where people can try backsmithing. The website provides information on where to buy the company’s items and also has a contact form that users can fill out to send their questions, booking requests, and special order requests. View the live site here. View the live site [here].link
 
+(picture of the deskpicture)
 ## Features 
-
 ### Site wide
 #### Navigation Bar
   - Features liks to the page Home , Products, Contacts and the section Courses that are on the Homepage. The Navigation bar is responsive to all screens
@@ -20,9 +20,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - The website's favicon features the company's logo, which is also displayed in the navigation bar.
   - By adding a favicon with the company's logo, users can easily identify the tab among multiple tabs open.
 
-
-#### 404 page
-  -
+  (picture of the favicon)
 
 #### The Hero section
   - The section features an attention-grabbing animation to highlight the site's main content.
@@ -50,11 +48,14 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - This will showcase the company's retail dealer to easily find where they buy the products since this is a static site.
   - A special order example picture is provided along for the user with a link to the contacts form to be able to send a special order request.
 
+  (Picture of the Products section)
+
 ## Contact page
   - 
 
 ### Existing Features
-  1. 
+ All the pages are responsive
+
 
 ### Features Left to Implement
 
@@ -94,40 +95,46 @@ Since Balcksmith usally a mysterius feeling the darkerteam feelt lika the right 
  The structure of the Website was developed using HTML as the main language.
 - CSS <br>
 The website's styling was achieved through the use  CSS, which is located in an external file.
-- Gitpod 
-  - The website was created by using Gitpod.
-- GitHub
-  - Source code is hosted on GitHub and delpoyed using Git Pages.
-- Git
-  - During the development of the website, Git was utilized to commit and push code.
-- Font Awesome
-   - Icons from https://fontawesome.com/ used as social media and map links in footer.
-- Covertio
-  - To convert some images from jpg or png to web format, we used [Convertio](https://convertio.co/jpg-webp/).
-- Tinyjpg
-  - Used https://tinyjpg.com/ to compress the size of the images.
-- Colorspace
-  - To find a color palate for the website colorspace was used.
-- Favicon.io
-  - Favicon files were made at https://favicon.io/favicon-converter/
-- balsamiq
-  - Used balsamiq to create the wireframes https://balsamiq.com/wireframes/desktop/#
+- Gitpod <br>
+The website was created by using Gitpod.
+- GitHub <br>
+Source code is hosted on GitHub and delpoyed using Git Pages.
+- Git <br>
+During the development of the website, Git was utilized to commit and push code.
+- Font Awesome <br>
+Icons from https://fontawesome.com/ used as social media and map links in footer.
+- Covertio <br>
+To convert some images from jpg or png to web format, we used [Convertio](https://convertio.co/jpg-webp/).
+- Tinyjpg <br>
+Used https://tinyjpg.com/ to compress the size of the images.
+- [Colorspace](https://mycolor.space) <br>
+To find a color palate for the website colorspace was used.
+- [Favicon.io](https://favicon.io/favicon-converter/) <br>
+Favicon files were made at 
+- [balsamiq](https://balsamiq.com/wireframes/desktop/#) <br>
+Used balsamiq to create the wireframes.
 
 ## Testing 
 
 
 ### Validator Testing 
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator]
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]
+- HTML <br>
+No errors were returned when passing through the official [W3C validator]
+  - Home page Results
+  - Product page Results
+  - Contact page Results
+- CSS <br>
+No errors were found when passing through the official [(Jigsaw) validator]
+  - CSS style file Results 
 
 ### Lighthouse testing
-
+  - Home page Results
+  - Product page Results
+  - Contact page Results
+  - CSS style file Results
 
 ### Bugs
-
 #### Fixed Buges
 
 #### Unfixed Buges
