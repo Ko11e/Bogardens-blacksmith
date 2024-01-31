@@ -64,7 +64,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
 ### Wireframe
 
-## Tecon
+## Technologies
 
 
 ## Testing 
@@ -78,8 +78,8 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - Source code is hosted on GitHub and delpoyed using Git Pages.
 - Git
   - During the development of the website, Git was utilized to commit and push code.
-- Google Fonts
-  - Google fonts were used to import the 'Palanquin' font into the style.css file which is used on all pages.
+(- Google Fonts
+  - Google fonts were used to import the 'Palanquin' font into the style.css file which is used on all pages.)
 - Font Awesome
    - Icons from https://fontawesome.com/ used as social media and map links in footer.
 - Tinyjpg
