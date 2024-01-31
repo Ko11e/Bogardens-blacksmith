@@ -282,7 +282,9 @@ td {
     background-color: rgba(225, 225, 255, .3);
     padding: 30px;
 }
-
+#contact-form p {
+    padding: 0 5px 12px 5px;
+}
 #contact h1 {
     margin-bottom: 20px;
     font-size: 150%;

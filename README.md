@@ -25,10 +25,10 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   -
 
 #### The Hero section
-  However, this is not featured on the contacts page, to create a minimalist look and make the focus on the contact form.
   - The section features an attention-grabbing animation to highlight the site's main content.
   - The photo in the section has a text overlay informing the user of the name of the company and its region of location.
 
+  However, this is not featured on the contacts page, to create a minimalist look and make the focus on the contact form.
   (Image of the hero)
 
 ### Main page
@@ -58,7 +58,14 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
 ### Features Left to Implement
 
-- Another feature idea
+- The current website doesn't allow users to directly book a course, but they can send a request. It would be helpful to add a feature that allows them to view available dates for booking or reservation.
+
+- Another feature to add is when a user clicks on the contact form that is located in the section special orders, the radio button is already selected by default when the user arrive at the contact form. Similarly, when a user clicks on any course from the main page, the radio button for courses and the specific course is also automatically selected.
+
+- Currently, there are only three active sites on the website. Having a dedicated site for courses would make it easier for users to understand the contents of each course.
+
+- By using javascript the contact from send a email to the owner with a infomation and the message given in the form
+
 
 ## Design
 
@@ -66,8 +73,6 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
 ## Technologies
 
-
-## Testing 
 - HTML
   - The structure of the Website was developed using HTML as the main language.
 - CSS
@@ -78,8 +83,6 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - Source code is hosted on GitHub and delpoyed using Git Pages.
 - Git
   - During the development of the website, Git was utilized to commit and push code.
-(- Google Fonts
-  - Google fonts were used to import the 'Palanquin' font into the style.css file which is used on all pages.)
 - Font Awesome
    - Icons from https://fontawesome.com/ used as social media and map links in footer.
 - Tinyjpg
@@ -89,6 +92,9 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 - balsamiq
   - Used balsamiq to create the wireframes https://balsamiq.com/wireframes/desktop/#
 
+## Testing 
+
+
 ### Validator Testing 
 
 - HTML
@@ -96,8 +102,11 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
 
-### Unfixed Bugs
+### Bugs
 
+#### Fixed Buges
+
+#### Unfixed Buges
 
 ## Deployment
 
