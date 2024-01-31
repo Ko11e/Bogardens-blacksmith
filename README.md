@@ -117,6 +117,20 @@ Used balsamiq to create the wireframes.
 
 ## Testing 
 
+  1. Tested all the pages if they are responsive <br>
+This is made by opening the project on differens devices as Iphone, Samsunge phone and tablet and laptop and desktop.
+The responsiveness is also tested by using Google chromes inspect function though out of the building of the project.
+
+  2. All the links leading to to other pages internal and external. <br>
+  The links is all tested on a desktop and mobile phone and are leading to the right site
+
+  3. Contact from, empty input<br>
+  By leaving one of the field empty a message appears indication the box need to be filled out.
+
+  4. Contact form, validat input <br>
+  Clickt send after completed form correctly received that the form validates input.
+  
+
 
 ### Validator Testing 
 
@@ -142,7 +156,9 @@ No errors were found when passing through the official [(Jigsaw) validator]
 #### Fixed Buges
 - Many of the images that I received has very large and had hard time compressing.
 
-- A error on the Products page had a error was found when running [the W3C validator]. A extra < /section > was on one of the line, that now is removed.  
+- A error on the Products page had a error was found when running [the W3C validator]. A extra < /section > was on one of the line, that now is removed.
+
+- The user is able to send the form without sending writing a message in the textarea. This bug was fixed but the user just enters a dot in the form they are able to send it. I don't know if this is possible to fix.
 
 #### Unfixed Buges
 
