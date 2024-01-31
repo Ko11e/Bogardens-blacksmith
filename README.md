@@ -131,18 +131,22 @@ No errors were found when passing through the official [(Jigsaw) validator]
 
 ### Lighthouse testing
   - Home page Results
+
   - Product page Results
+
   - Contact page Results
+
   - CSS style file Results
 
 ### Bugs
 #### Fixed Buges
-- 
+- Many of the images that I received has very large and had hard time compressing.
 
- - A error on the Products page had a error was found when running [the W3C validator]. A extra < /section > was on one of the line, that now is removed.  
-
+- A error on the Products page had a error was found when running [the W3C validator]. A extra < /section > was on one of the line, that now is removed.  
 
 #### Unfixed Buges
+
+No Errors found
 
 ## Deployment
 
@@ -157,21 +161,30 @@ The project was published on GitHub Pages by following these steps.
 The live link can be found [here](https://ko11e.github.io/Bogardens-blacksmith/) 
 
 ## Credits 
+- Love Running
 
+The Navigationbar in a mobileview code is taken from the Walkthrough project Love Running at Code Institute. As the footer but both the navbar and footer is modified to fit this project.
 
+For the contect form is the HTML-code take but i have added a textarea for the user to write a message.
+
+- Insperition
+
+I got som of my inperation from [Gränsfors bruk](https://www.gransforsbruk.com/) 
 
 ### Content 
 
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-
+- The text is writen bye the owner of the company, Fredrik Nordebo
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-- Got pictures from https://www.stockvault.net/free-photos/blacksmith/ https://www.istockphoto.com/
-- Other pictures are from the owner of the company
+- The photos used in the hero background is taken [iStock](https://www.istockphoto.com/)
+- The backimage on the contact page were taken from this other open source site [Stockvault](https://www.stockvault.net/free-photos/blacksmith/).
+- The rest of the images was recieved from Fredrik Nordebo, the owner of Bågordens Blacksmith.
+
+### Acknowledgements
+
+- To my mentor giving good feedback and priority order.
+
+- My family that always listen to all my ideas and give my feedback. 
 
  
