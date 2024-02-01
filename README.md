@@ -151,21 +151,20 @@ No errors were found when passing through the official [(Jigsaw) validator]
 
 ### Lighthouse testing
   - Home page Results <br>
-Mobile
+Mobile <br>
 ![Lighthousetest-home-mobile](assets/images/lighthouse-mobile-home.png)
-Desktop
+Desktop <br>
 ![Lighthousetest-home-desktop](assets/images/lighthouse-desktop-home.png)
   - Product page Results <br>
-Mobile
-![Lighthousetest-products-mobile](assets/images/lighthouse-mobile-products.png)
-Desktop
-![Lighthousetest-products-mobile](assets/images/lighthouse-desktop-products.png)
+Mobile <br>
+![Lighthousetest-products-mobile](assets/images/lighthouse-mobile-products.png) <br>
+Desktop <br>
+![Lighthousetest-products-mobile](assets/images/lighthouse-desktop-products.png) <br>
   - Contact page Results <br>
-Mobile
-![Lighthousetest-contact-mobile](assets/images/lighthouse-mobile-contact.png)
-Desktop
-![Lighthousetest-contact-mobile](assets/images/lighthouse-desktop-contact.png)
-
+Mobile <br>
+![Lighthousetest-contact-mobile](assets/images/lighthouse-mobile-contact.png) <br>
+Desktop <br>
+![Lighthousetest-contact-mobile](assets/images/lighthouse-desktop-contact.png) <br>
 
 ### Bugs
 #### Fixed Buges
