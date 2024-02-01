@@ -79,11 +79,11 @@ I started by creating a wireframe, which you can see below. Even though I alread
 
 ### Wireframe
 #### Home page
-
+![Wirefram-image-homepage](assets/images/Wireframe-homepage-README.png)
 #### Product page
-
+![Wirefram-image-productspage](assets/images/WIrefram-products-README.png)
 ####  Contact page
-
+![Wirefram-image-contactpage](assets/images/Wirefram-contact-README.png)
 ### Color
 Blacksmithing is often considered a mysterious profession, so darker colors are usually preferred for websites related to this field. Looking at other blacksmith websites, it can be observed that a dark color is commonly used. The background color is a dark-brown shade (#3D261F), which is sampled from the apron in the Hero image. The white and orange colors used on the website are chosen using ColorSpace. [ColorSpace](https://mycolor.space/?hex=%233D261F&sub=1).
 
