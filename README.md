@@ -150,13 +150,22 @@ No errors were found when passing through the official [(Jigsaw) validator]
 ![CCS-test](assets/images/W3C-CSS-validaton-README.webp)
 
 ### Lighthouse testing
-  - Home page Results
+  - Home page Results <br>
+Mobile
+![Lighthousetest-home-mobile](assets/images/lighthouse-mobile-home.png)
+Desktop
+![Lighthousetest-home-desktop](assets/images/lighthouse-desktop-home.png)
+  - Product page Results <br>
+Mobile
+![Lighthousetest-products-mobile](assets/images/lighthouse-mobile-products.png)
+Desktop
+![Lighthousetest-products-mobile](assets/images/lighthouse-desktop-products.png)
+  - Contact page Results <br>
+Mobile
+![Lighthousetest-contact-mobile](assets/images/lighthouse-mobile-contact.png)
+Desktop
+![Lighthousetest-contact-mobile](assets/images/lighthouse-desktop-contact.png)
 
-  - Product page Results
-
-  - Contact page Results
-
-  - CSS style file Results
 
 ### Bugs
 #### Fixed Buges
