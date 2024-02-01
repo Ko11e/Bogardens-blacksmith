@@ -24,6 +24,13 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
   ![favicon](assets/images/favicon-README.webp)
 
+### 404 page
+- A 404 page will display if a user navigates to a broken link.
+- The 404 error page helps users navigate back to the main website in case of a broken link or missing page, eliminating the need for the browser’s back button.
+
+
+
+
 #### The Hero section
   - The section features an attention-grabbing animation to highlight the site's main content.
   - The photo in the section has a text overlay informing the user of the name of the company and its region of location.
@@ -57,7 +64,10 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 ## Contact page
   - This page provides a platform for users to get in touch with the company. Users can use this page to book a course, request a special order, or ask any other questions they may have. To do so, they will need to fill out a form that includes their full name, email address and the topic of their message. Additionally, there is a message box where users can write their queries in detail.
 
+  - Upon submitting the contact form, the user will be redirected to a success message displayed on the thankyou.html page.
+
 ![Contats](assets/images/Contact-README.webp)
+![Thankyou-message]
 
 ### Existing Features
 
@@ -132,7 +142,7 @@ This text describes how a project's responsiveness is tested by opening it on di
   When a required field is left empty, an error message appears prompting the user to fill in the empty field.
 
   **4. Contact form, validat input** <br>
-  Upon submission of the completed form, the user will be redirected to Code Institute confirmation page.
+  Upon submission of the completed form, the user will be redirected to Code Institute confirmation page. After the test, a thank you page has been added that the user to receive after they have submitted the form.
   
 ### Accessibility
 
