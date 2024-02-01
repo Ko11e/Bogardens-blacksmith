@@ -22,7 +22,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - The website's favicon features the company's logo, which is also displayed in the navigation bar.
   - By adding a favicon with the company's logo, users can easily identify the tab among multiple tabs open.
 
-  (picture of the favicon)
+  ![favicon](assets/images/favicon-README.webp)
 
 #### The Hero section
   - The section features an attention-grabbing animation to highlight the site's main content.
@@ -87,37 +87,37 @@ I started by creating a wireframe, which you can see below. Even though I alread
 ### Color
 Blacksmithing is often considered a mysterious profession, so darker colors are usually preferred for websites related to this field. Looking at other blacksmith websites, it can be observed that a dark color is commonly used. The background color is a dark-brown shade (#3D261F), which is sampled from the apron in the Hero image. The white and orange colors used on the website are chosen using ColorSpace. [ColorSpace](https://mycolor.space/?hex=%233D261F&sub=1).
 
+![Colorpalette](assets/images/color-palette-README.webp)
+
 ### Images
 - The website features a big banner as a hero image that aims to grab the user's attention right away. The image has a filter that creates a gradient effect, starting from the hammer blows and the sparks, and going up or down to the top or bottom of the picture. This gradient effect is used to make the image more visually appealing and to help the user quickly understand the purpose of the website.
-
-(- In the section about the smithy two photos are shown to the owner and the farm. Because its a one man company showing a picture of the owner)
 
 - The images of the products are to give the user a feeling of the skills and precision of the company's work. This applies also in the image to the special order section.
 
 
 ## Technologies
 
-- HTML <br>
+- **HTML** <br>
  The structure of the Website was developed using HTML as the main language.
-- CSS <br>
+- **CSS** <br>
 The website's styling was achieved through the use  CSS, which is located in an external file.
-- Gitpod <br>
+- **Gitpod** <br>
 The website was created by using Gitpod.
-- GitHub <br>
+- **GitHub** <br>
 The source code is hosted on GitHub and deployed using Git Pages.
-- Git <br>
+- **Git** <br>
 During the development of the website, Git was utilized to commit and push code.
-- Font Awesome <br>
+- **Font Awesome** <br>
 Icons from https://fontawesome.com/ are used as social media and map links in the footer.
-- Covertio <br>
+- **Covertio** <br>
 To convert some images from jpg or png to web format, we used [Convertio](https://convertio.co/jpg-webp/).
-- Tinyjpg <br>
+- **Tinyjpg** <br>
 Used https://tinyjpg.com/ to compress the size of the images.
-- [Colorspace](https://mycolor.space) <br>
+- **[Colorspace](https://mycolor.space)** <br>
 To find a color palate for the website colorspace was used.
-- [Favicon.io](https://favicon.io/favicon-converter/) <br>
+- **[Favicon.io](https://favicon.io/favicon-converter/)** <br>
 Favicon files were made at 
-- [balsamiq](https://balsamiq.com/wireframes/desktop/#) <br>
+- **[balsamiq](https://balsamiq.com/wireframes/desktop/#)** <br>
 Used balsamiq to create the wireframes.
 
 ## Testing 
@@ -147,7 +147,7 @@ No errors were returned when passing through the official [W3C validator]
 No errors were found when passing through the official [(Jigsaw) validator]
   - CSS style file 
 
-  [Se image]
+![CCS-test](assets/images/W3C-CSS-validaton-README.webp)
 
 ### Lighthouse testing
   - Home page Results
