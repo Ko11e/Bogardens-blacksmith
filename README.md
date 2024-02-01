@@ -1,7 +1,8 @@
 # Bogårdens Blacksmith
-Bogårdens Blacksmith is a website created to promote the company Bogårdens Blacksmith and their services and products. Bogårdens Blacksmith is a company that sells smithing items and has courses where people can try backsmithing. The website provides information on where to buy the company’s items and also has a contact form that users can fill out to send their questions, booking requests, and special order requests. View the live site here. View the live site [here].link
+Bogårdens Blacksmith is a website created to promote the company Bogårdens Blacksmith and their services and products. Bogårdens Blacksmith is a company that sells smithing items and has courses where people can try backsmithing. The website provides information on where to buy the company’s items and also has a contact form that users can fill out to send their questions, booking requests, and special order requests. View the live site here. View the live site [here](https://ko11e.github.io/Bogardens-blacksmith/).
 
-(picture of the deskpicture)
+![mockup](assets/images/mulit-mockup-README.webp)
+
 ## Features 
 
 ### Site wide
@@ -9,13 +10,13 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - Features liks to the page Home , Products, Contacts and the section Courses that are on the Homepage. The Navigation bar is responsive to all screens
   - Since the navigation section appears on all pages, users can easily navigate through the site on any device.
 
-  (image of the nav-bar)
+  ![Nav-bar](assets/images/navbar-README.webp)
 
 #### The Footer section
   - This section will show the user links to Bogårdens Blacksmith's active social media pages and their location. The links will open in a new tab, making it easy for the user keep exploring their content on the site and socila media.
   - This will allow users to follow Bogårdens Blacksmith on social media, where they can see custom orders and get more up-to-date information than on the website.
 
-  (image of the footer)
+  ![footer](assets/images/footer-README.webp)
 
 #### Favicon
   - The website's favicon features the company's logo, which is also displayed in the navigation bar.
@@ -28,7 +29,8 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - The photo in the section has a text overlay informing the user of the name of the company and its region of location.
 
   However, this is not featured on the contacts page, to create a minimalist look and make the focus on the contact form.
-  (Image of the hero)
+
+![Hero-image](assets/images/hero-README.webp)
 
 ### Main page
 #### About us section
@@ -36,23 +38,26 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - Its introduces the user to what the company has to offer, as in courses and products.
   - The images in this section showcase the forge and its owner, providing a friendly atmosphere for the user.
 
-  (picture of about us section)
+![About-us](assets/images/about-us-REDAME.webp)
 
 ### Courses section
   - This section will allow the user to see the four standers cousers that the company has to offer, with a short text explaning the indvidual courses.
   - By hoovering over the image the user gets an infomation that they can send a booking request by a link.  
 
-  (Picture of the courses section)
+![Courses](assets/images/Courses-REDAME.webp)
 
 ## Products page
   - The product page will provide the user with some of the products the company has made and can buy. The page is fully responsive make it easy for the user to see the products.
   - This will showcase the company's retail dealer to easily find where they buy the products since this is a static site.
   - A special order example picture is provided along for the user with a link to the contacts form to be able to send a special order request.
 
-  (Picture of the Products section)
+![products-part1](assets/images/Products-part1-README.webp) 
+![products-part2](assets/images/Products-part2-README.webp)
 
 ## Contact page
   - This page provides a platform for users to get in touch with the company. Users can use this page to book a course, request a special order, or ask any other questions they may have. To do so, they will need to fill out a form that includes their full name, email address and the topic of their message. Additionally, there is a message box where users can write their queries in detail.
+
+![Contats](assets/images/Contact-README.webp)
 
 ### Existing Features
 
