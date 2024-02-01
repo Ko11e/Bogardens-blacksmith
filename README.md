@@ -154,7 +154,7 @@ No errors were found when passing through the official [(Jigsaw) validator]
 Mobile <br>
 ![Lighthousetest-home-mobile](assets/images/lighthouse-mobile-home.png)
 Desktop <br>
-![Lighthousetest-home-desktop](assets/images/lighthouse-desktop-home.png)
+![Lighthousetest-home-desktop](assets/images/lighthouse-desktop-home.png) <br>
   - Product page Results <br>
 Mobile <br>
 ![Lighthousetest-products-mobile](assets/images/lighthouse-mobile-products.png) <br>
