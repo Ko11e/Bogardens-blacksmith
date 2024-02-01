@@ -70,7 +70,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 
 
 ## Design
- I started with making a wirefram as can be see below. Altought the color team and the images of the website was already in the back of my mind. In the section colors and images is it more infromation on the color and image choices.
+I started by creating a wireframe, which you can see below. Even though I already had some ideas about the color scheme and images for the website, I have included more detailed information about these choices in the Color and Images section.
 
 ### Wireframe
 #### Home page
@@ -80,14 +80,14 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 ####  Contact page
 
 ### Color
-Since Balcksmith usally a mysterius feeling the darkerteam feelt lika the right choice and looking at other blacksmith site a darkercolor is usally used. The darkbrown color (#3D261F), the background color, is sampeld for the apron in the Hero image. The white and the orange is found using a website [ColorSpace](https://mycolor.space/?hex=%233D261F&sub=1).
+Blacksmithing is often considered a mysterious profession, so darker colors are usually preferred for websites related to this field. Looking at other blacksmith websites, it can be observed that a dark color is commonly used. The background color is a dark-brown shade (#3D261F), which is sampled from the apron in the Hero image. The white and orange colors used on the website are chosen using ColorSpace. [ColorSpace](https://mycolor.space/?hex=%233D261F&sub=1).
 
 ### Images
-- The site contains a larger baner as a hero image to immediately capture the attention of the user. Over the image is a filter with a gradient from the hammer blows, and the sparks, to the top or the bottom of the image. The gradient is appyed to make the picture more eye catching and for the user the qiukly understand the content of the website.
+- The website features a big banner as a hero image that aims to grab the user's attention right away. The image has a filter that creates a gradient effect, starting from the hammer blows and the sparks, and going up or down to the top or bottom of the picture. This gradient effect is used to make the image more visually appealing and to help the user quickly understand the purpose of the website.
 
-- In the section about the smithy two photos are shown to the owner and the farm. Because its a one man company showing a picture of the owner 
+(- In the section about the smithy two photos are shown to the owner and the farm. Because its a one man company showing a picture of the owner)
 
-- The images of the products is to give the user a feeling of the skille and presition in the companys work. This applys also in the image to the special order section.
+- The images of the products are to give the user a feeling of the skills and precision of the company's work. This applies also in the image to the special order section.
 
 
 ## Technologies
@@ -99,11 +99,11 @@ The website's styling was achieved through the use  CSS, which is located in an 
 - Gitpod <br>
 The website was created by using Gitpod.
 - GitHub <br>
-Source code is hosted on GitHub and delpoyed using Git Pages.
+The source code is hosted on GitHub and deployed using Git Pages.
 - Git <br>
 During the development of the website, Git was utilized to commit and push code.
 - Font Awesome <br>
-Icons from https://fontawesome.com/ used as social media and map links in footer.
+Icons from https://fontawesome.com/ are used as social media and map links in the footer.
 - Covertio <br>
 To convert some images from jpg or png to web format, we used [Convertio](https://convertio.co/jpg-webp/).
 - Tinyjpg <br>
@@ -118,17 +118,16 @@ Used balsamiq to create the wireframes.
 ## Testing 
 
   **1. Tested all the pages if they are responsive** <br>
-This is made by opening the project on differens devices as Iphone, Samsunge phone and tablet and laptop and desktop.
-The responsiveness is also tested by using Google chromes inspect function though out of the building of the project.
+This text describes how a project's responsiveness is tested by opening it on different devices such as an iPhone, Samsung phone, tablet, laptop, and desktop. The Google Chrome inspect function is also used throughout the project development to ensure responsiveness.
 
   **2. All the links leading to to other pages internal and external.** <br>
-  The links is all tested on a desktop and mobile phone and are leading to the right site
+  The links have been tested on both desktop and mobile devices and are properly directed to the intended site
 
   **3. Contact from, empty input**<br>
-  By leaving one of the field empty a message appears indication the box need to be filled out.
+  When a required field is left empty, an error message appears prompting the user to fill in the empty field.
 
   **4. Contact form, validat input** <br>
-  Clickt send after completed form correctly received that the form validates input.
+  Upon submission of the completed form, the user will be redirected to Code Institute confirmation page.
   
 
 
@@ -156,11 +155,12 @@ No errors were found when passing through the official [(Jigsaw) validator]
 
 ### Bugs
 #### Fixed Buges
-- Many of the images that I received has very large and had hard time compressing.
+- It was difficult to compress many of the received images due to their large size.
 
-- A error on the Products page had a error was found when running [the W3C validator]. A extra < /section > was on one of the line, that now is removed.
+- An extra closing < /section > tag was removed from the Products page, which was causing an error that was found when running the W3C validator.
 
-- The user is able to send the form without sending writing a message in the textarea. I don't know if this is possible to fix.
+
+- The form can be submitted by the user without writing a message in the textarea. Although the bug has been fixed, the user can still submit the form by simply entering a dot. I'm unsure if there is a way to fix this issue.
 
 #### Unfixed Buges
 
@@ -170,34 +170,34 @@ No Errors found
 
 The project was published on GitHub Pages by following these steps.
   1. Log in to GitHub and locate the [Repository](https://github.com/Ko11e/Bogardens-blacksmith)
-  2. Click on "Settings", locaded at the end of the menu at the top of the page.
-  3. Click on "Page", locaded in the middel of the menu on the leftsida.
-  4. Under "Branch", click the drop down called "None" and select "Main".
-  5. Clicke "Save" and refreash the page.
-  6. The link to the publish site will shown in the top of the page.
+  2. Click on "Settings", located at the end of the menu at the top of the page.
+  3. Click on "Page", located in the middle of the menu on the left side.
+  4. Under "Branch", click the drop-down called "None" and select "Main".
+  5. Click "Save" and refresh the page.
+  6. The link to the publish site will shown at the top of the page.
 
 The live link can be found [here](https://ko11e.github.io/Bogardens-blacksmith/) 
 
 ## Credits 
 - Love Running
 
-The Navigationbar in a mobileview code is taken from the Walkthrough project Love Running at Code Institute. As the footer but both the navbar and footer is modified to fit this project.
+The Navigation bar in a mobile view code is taken from the Walkthrough project Love Running at Code Institute. As for the footer both the navbar and footer are modified to fit this project.
 
-For the contect form is the HTML-code take but i have added a textarea for the user to write a message.
+The contact form is the HTML code taken but i have added a textarea for the user to write a message.
 
-- Insperition
+- Inspiration
 
-I got som of my inperation from [Gränsfors bruk](https://www.gransforsbruk.com/) 
+I got som of my inspiration from [Gränsfors bruk](https://www.gransforsbruk.com/) 
 
 ### Content 
 
-- The text is writen bye the owner of the company, Fredrik Nordebo
+- The text is written by the owner of the company, Fredrik Nordebo
 
 ### Media
 
 - The photos used in the hero background is taken [iStock](https://www.istockphoto.com/)
-- The backimage on the contact page were taken from this other open source site [Stockvault](https://www.stockvault.net/free-photos/blacksmith/).
-- The rest of the images was recieved from Fredrik Nordebo, the owner of Bågordens Blacksmith.
+- The background image on the contact page were taken from this other open source site [Stockvault](https://www.stockvault.net/free-photos/blacksmith/).
+- The rest of the images was received from Fredrik Nordebo, the owner of Bågordens Blacksmith.
 
 ### Acknowledgements
 
