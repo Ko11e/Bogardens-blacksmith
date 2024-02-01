@@ -109,8 +109,10 @@ main {
 }
 
 .text-center {
+    margin: 75px 0;
     text-align: center;
     padding: 50px;
+
 }
 
 #hero {
