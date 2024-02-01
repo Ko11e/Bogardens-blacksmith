@@ -28,8 +28,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
 - A 404 page will display if a user navigates to a broken link.
 - The 404 error page helps users navigate back to the main website in case of a broken link or missing page, eliminating the need for the browser’s back button.
 
-
-
+![404-page](assets/images/404-page-README.png)
 
 #### The Hero section
   - The section features an attention-grabbing animation to highlight the site's main content.
@@ -67,7 +66,7 @@ Bogårdens Blacksmith is a website created to promote the company Bogårdens Bla
   - Upon submitting the contact form, the user will be redirected to a success message displayed on the thankyou.html page.
 
 ![Contats](assets/images/Contact-README.webp)
-![Thankyou-message]
+![Thankyou-message](assets/images/thankyou-page-README.png)
 
 ### Existing Features
 
