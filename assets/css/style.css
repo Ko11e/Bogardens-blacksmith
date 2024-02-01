@@ -108,6 +108,11 @@ main {
     margin-top: 80px;
 }
 
+.text-center {
+    text-align: center;
+    padding: 50px;
+}
+
 #hero {
     height: 250px;
     /* This a filter-gradient over the photo so the white text isn't hard to read when it over the fire 
